@@ -266,6 +266,7 @@ img {
   grid-template-columns: repeat(3, 1fr);
   gap: 2rem;
   padding: 1rem 0 4rem;
+  margin-top: 2rem;
 }
 
 .chapter-cards img {
